@@ -16,6 +16,7 @@ public class EmpDAO {
 		{
 			Class.forName("oracle.jdbc.driver.OracleDriver");
 			
+			
 		}catch(Exception ex) {}
 	}
 	// 2. 오라클 연결
